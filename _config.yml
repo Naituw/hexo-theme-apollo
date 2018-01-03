@@ -3,6 +3,7 @@ menu:
     Archive: /archives/
     Weibo: http://weibo.com/naituw
     GitHub: https://github.com/Naituw
+    Rss: /atom.xml
 
 favicon: /favicon.png
 logo: /favicon.png
